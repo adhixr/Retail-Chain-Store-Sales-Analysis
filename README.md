@@ -1,7 +1,7 @@
 # Retail-Chain-Store-Sales-Analysis
 Retail Chain Store Sales Analysis for Outlets and recommendations to improve sales.
 
-This dataset has information of sales of a retail chain for 1559 products across 10 stores in different cities. 
+We have available sales data of a retail chain for 1559 products across 10 stores in different cities. 
 
 
 The aim of this project is to analyze sales in these 10 different stores, look at the best and worst performing stores, and build necessary recommendations for the retail chain to improve their sales through two main metrics –
